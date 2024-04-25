@@ -71,3 +71,5 @@ Poseo conocimientos sobre:
 [Angular-url]: https://angular.io/
 
 ¡Gracias por visitar mi perfil!
+
+![gato](https://cdn.shopify.com/s/files/1/1423/6840/files/tips-vivir-gatos-spaacio-decoracion-diseno_3.jpg?v=1588796152)
