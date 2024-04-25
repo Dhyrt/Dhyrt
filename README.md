@@ -1,7 +1,20 @@
+![gato](https://res.cloudinary.com/fronda/image/upload/f_auto,q_auto/prod/build/shop/images/blog/aprender/conoce-mejor-a-tu-gato/topbanner-aprender-conoce-mejor-a-tu-gato.6a463b05.jpg)
+
 # ¡Hola! 👋
 
 Soy Carolina Ahumada.
 Estudiante de Ingenieria en Informatica en DuocUC. Este es mi perfil de GitHub donde comparto algunos de mis proyectos y aprendizajes.
+
+![LinkedIn][linkedin-shield]
+![Twitter][twitter-shield]
+![Facebook][facebook-shield]
+![Instagram][instagram-shield]
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white
+[facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white
+
 
 ## Sobre mí
 
